@@ -34,8 +34,6 @@ class App extends React.Component {
           currentUser: user,
         });
       }
-
-      // createUserProfileDocument(user);
     });
   }
 
